@@ -1,0 +1,28 @@
+{
+  "233": {
+    "weth": {
+      "proxyAddress": "0x22f92e5a6219bEf9Aa445EBAfBeB498d2EAdBF01",
+      "implAddress": "0x22f92e5a6219bEf9Aa445EBAfBeB498d2EAdBF01",
+      "version": "1.0.0",
+      "contract": "WETH9",
+      "operator": "0xc55B826A0BaBbb3950087E1E89DE8cC25A6d6a39",
+      "fromBlock": 3895954
+    },
+    "factory": {
+      "proxyAddress": "0x418e214E48Fd88A87692dbDEFb5Ba9598b1fA035",
+      "implAddress": "0x418e214E48Fd88A87692dbDEFb5Ba9598b1fA035",
+      "version": "1.0.0",
+      "contract": "AetherV1Factory",
+      "operator": "0x36bFDe1bFBac808D0025db3F4b2310A9201374b2",
+      "fromBlock": 5720507
+    },
+    "router": {
+      "proxyAddress": "0x913c08B4C2Cfa61f867f93664b25746f8037D97F",
+      "implAddress": "0x913c08B4C2Cfa61f867f93664b25746f8037D97F",
+      "version": "1.0.0",
+      "contract": "AetherRouter",
+      "operator": "0x36bFDe1bFBac808D0025db3F4b2310A9201374b2",
+      "fromBlock": 5727575
+    }
+  }
+}
